@@ -2,7 +2,7 @@
 
 Official static showcase and public architecture overview for **Fashion Vault X (FVX)**.
 
-- **Website URL:** https://clairepadzinza.github.io/fvx-atelier/
+- **Website URL:** https://fvxatelier.github.io/
 - **Status:** Development Preview
 - **Identity:** Fashion Vault X (EST. 14) — *Où la mode se découvre*
 
